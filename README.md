@@ -1,1 +1,1 @@
-# theme-template_v2
+# Theme Template
