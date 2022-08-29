@@ -1,0 +1,19 @@
+{
+  "name": "theme-template_v2",
+  "version": "0.0.1",
+  "description": "Theme Template (NuxtJS)",
+  "main": "theme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leadobo/theme-template_v2.git"
+  },
+  "author": "jjjrmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leadobo/theme-template_v2/issues"
+  },
+  "homepage": "https://github.com/Leadobo/theme-template_v2#readme"
+}
