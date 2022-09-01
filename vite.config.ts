@@ -8,7 +8,7 @@ module.exports = defineConfig({
     lib: {
       entry: path.resolve(__dirname, 'src/theme.ts'),
       name: 'theme',
-      formats: ['es'], // adding 'umd' requires globals set to every external module
+      formats: ['cjs'], // adding 'umd' requires globals set to every external module
       fileName: (format) => `theme.${format}.js`,
     },
     rollupOptions: {
